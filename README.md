@@ -4,4 +4,4 @@ Quick Facts:
 
 - 🌏 I'm currently working on AI4Seismology — earthquake detection, characterization, and knowledge graph construction for seismic events
 - 📊 My background is in Applied Statistics; I care deeply about principled, data-driven modeling
-- 📬 How to reach me: yzhou2@fas.harvard.edu | zhouyuxin21.mails.ucas.ac.cn
+- 📬 How to reach me: yzhou2@fas.harvard.edu | zhouyuxin21@mails.ucas.ac.cn
