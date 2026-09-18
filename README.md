@@ -6,6 +6,6 @@ Quick Facts:
 - 📊 My background is in Applied Statistics; I care deeply about principled, data-driven modeling
 - 📬 How to reach me: yzhou2@fas.harvard.edu | zhouyuxin21@mails.ucas.ac.cn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuxin-zhou96)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/choooyuhin)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Na73xMYAAAAJ&hl=zh-CN)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuxin-zhou96)
+  [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/choooyuhin)
+  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Na73xMYAAAAJ&hl=zh-CN)
