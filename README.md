@@ -1,10 +1,10 @@
-I am a Visiting Ph.D at [Harvard University, Department of Earth and Planetary Sciences](https://eps.harvard.edu/) and a Ph.D. candidate in Geodynamics at the University of Chinese Academy of Sciences (UCAS). I work with [S.Mostafa Mousavi](https://eps.harvard.edu/people/mostafa-mousavi/) on Graph Representation Learning and seismology to understand earthquakes. I have a background in statistics and keep a line of work on knowledge graphs and deep-learning. I have pinned selected repositories below to showcase key projects from my research — more detailed academic papers can be found on [My website](https://chouyuhin.github.io/My-website/).
+I am a Visiting Ph.D at [Harvard University, Department of Earth and Planetary Sciences](https://eps.harvard.edu/) and a Ph.D. in Geodynamics at the University of Chinese Academy of Sciences (UCAS). I work with [S.Mostafa Mousavi](https://eps.harvard.edu/people/mostafa-mousavi/) on Graph Representation Learning and seismology to understand earthquakes. I have a background in statistics and keep a line of work on knowledge graphs and deep-learning. I have pinned selected repositories below to showcase key projects from my research — more detailed academic papers can be found on [My website](https://chouyuhin.github.io/My-website/).
 
 Quick Facts:
 
 - 🌏 I'm currently working on AI4Seismology — earthquake detection, characterization, and knowledge graph construction for seismic events
 - 📊 My background is in Applied Statistics; I care deeply about principled, data-driven modeling
-- 📬 How to reach me: yzhou2@fas.harvard.edu | zhouyuxin21@mails.ucas.ac.cn
+- 📬 How to reach me: yzhou2@fas.harvard.edu
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuxin-zhou96)
   [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/choooyuhin)
